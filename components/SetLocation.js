@@ -23,7 +23,7 @@ const SetLocation = (props) => {
             console.log(data, details);
           }}
           query={{
-            key: "AIzaSyBFD1QP1MDNS89mJ_oKTD19RN0qCYJtQj8",
+            key: "{KEY GOES HERE}",
             language: "en",
           }}
         />
